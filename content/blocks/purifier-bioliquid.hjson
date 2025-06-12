@@ -1,0 +1,20 @@
+squareSprite: false
+size: 3
+category: crafting
+researchCostMultiplier: .25
+craftTime: 15
+requirements: [
+exoprosopa-01a-01-item-cobalt/100
+]
+consumes: {
+exoprosopa-02b-01-bioliquid/0.16
+}
+outputItem: oxide/2
+research: {
+requirements: [
+exoprosopa-01a-01-item-cobalt/120
+]
+parent: exoprosopa-02b-01-bioliquid
+name: Oxide-concentrator
+planet: exoprosopa-frostnova
+}

@@ -7,8 +7,8 @@ craftTime: 15
 requirements: [
 exoprosopa-01a-01-item-cobalt/100
 ]
-consumes:{liquid:{
-exoprosopa-02b-01-bioliquid/0.16}}
+consumes:[
+exoprosopa-02b-01-bioliquid/0.16]
 outputItem: oxide/2
 research: {
 requirements: [

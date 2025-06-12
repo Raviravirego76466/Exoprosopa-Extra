@@ -1,0 +1,7 @@
+name: exoprosopa-extras
+displayName: Exoprosopa Extras
+author: Raviravirego76466
+description: This is a useless description.
+version: "1.0"
+minGameVersion: "149"
+dependencies: [exoprosopa]

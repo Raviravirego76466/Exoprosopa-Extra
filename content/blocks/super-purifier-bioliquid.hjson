@@ -1,0 +1,27 @@
+name: Carbide-concentrator
+type: GenericCrafter
+squareSprite: false
+size: 3
+category: crafting
+researchCostMultiplier: .25
+craftTime: 15
+requirements: [
+exoprosopa-01a-01-item-cobalt/200
+]
+consumes: {
+items: [
+exoprosopa-01a-01-item-cobalt/10
+oxide/5
+]
+liquids: [
+exoprosopa-02b-01-bioliquid/1]
+}
+outputItem: carbide/2
+research: {
+requirements: [
+exoprosopa-01a-01-item-cobalt/240
+]
+parent: purifier-bioliquid
+name: Carbide-concentrator
+planet: exoprosopa-frostnova
+}

@@ -13,16 +13,6 @@ liquids: [
 exoprosopa-02b-02-ichor/0.16]
 }
 outputLiquid: slag/2
-drawer: {
-  type: DrawMulti
-  drawers: [
-    {
-      type: DrawBlurSpin
-      suffix: -rotator
-      rotateSpeed: 5
-    }
-  ]
-}
 research: {
 requirements: [
 exoprosopa-01a-01-item-cobalt/120

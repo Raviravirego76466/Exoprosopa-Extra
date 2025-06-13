@@ -1,0 +1,24 @@
+name: Iclag Creator
+type: GenericCrafter
+squareSprite: false
+size: 5
+category: crafting
+researchCostMultiplier: .25
+craftTime: 15
+requirements: [
+exoprosopa-01a-02-item-nickel/100
+]
+consumes: {
+liquids: [
+exoprosopa-02b-02-ichor/10
+slag/10]
+}
+outputLiquid: iclag/2
+research: {
+requirements: [
+exoprosopa-01a-02-item-nickel/12
+]
+parent: exoprosopa-01a-02-item-nickel
+name: Ichor Creator
+planet: exoprosopa-frostnova
+}

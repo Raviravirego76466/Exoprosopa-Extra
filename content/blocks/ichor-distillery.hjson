@@ -1,0 +1,23 @@
+name: Ichor Distillery
+type: GenericCrafter
+squareSprite: false
+size: 8
+category: crafting
+researchCostMultiplier: .25
+craftTime: 15
+requirements: [
+exoprosopa-01a-02-item-nickel/800
+]
+consumes: {
+items: [
+exoprosopa-01a-02-item-nickel/100]
+}
+outputLiquid: exoprosopa-02b-02-ichor/20
+research: {
+requirements: [
+exoprosopa-01a-02-item-nickel/840
+]
+parent: ichor-creator
+name: Ichor Distillery
+planet: exoprosopa-frostnova
+}

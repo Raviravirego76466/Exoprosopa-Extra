@@ -18,7 +18,13 @@ research: {
 requirements: [
 exoprosopa-01a-02-item-nickel/12
 ]
-parent: exoprosopa-01a-02-item-nickel
-name: Ichor Creator
+parent: ichor-creator
+name: Iclag Creator
 planet: exoprosopa-frostnova
+objectives: [
+    {
+      type: OnComplete
+      preset: essene-rains
+    } 
+  ]
 }

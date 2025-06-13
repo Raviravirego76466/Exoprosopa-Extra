@@ -10,7 +10,7 @@ exoprosopa-01a-02-item-nickel/800
 ]
 consumes: {
 items: [
-exoprosopa-01a-02-item-nickel/100]
+exoprosopa-01a-02-item-nickel/10]
 }
 outputLiquid: exoprosopa-02b-02-ichor/20
 research: {

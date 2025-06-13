@@ -11,7 +11,8 @@ exoprosopa-01a-02-item-nickel/100
 consumes: {
 liquids: [
 exoprosopa-02b-02-ichor/10
-slag/10]
+slag/10
+]
 }
 outputLiquid: iclag/2
 research: {

@@ -1,0 +1,34 @@
+type: ThermalGenerator
+name: Pressure Ichor Generator
+size: 3
+health: 450
+fogRadius: 2
+attribute: steam
+displayEfficiencyScale: 0.11111111111
+displayEfficiency: false
+minEfficiency: 8
+powerProduction: 0.2222222223
+squareSprite: false
+category: power
+research: exoprosopa-0007-power
+buildCostMultiplier: 2
+outputLiquid: exoprosopa-02b-02-ichor/1
+requirements: [
+  exoprosopa-01a-01-item-cobalt/80
+]
+researchCost: [
+  exoprosopa-01a-01-item-cobalt/150
+]
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawBlurSpin
+      suffix: -rotator
+      rotateSpeed: 5
+    }
+    {
+      type: DrawDefault
+    }
+  ]
+}

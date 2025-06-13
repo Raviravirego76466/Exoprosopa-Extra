@@ -14,7 +14,7 @@ exoprosopa-02b-02-ichor/10
 slag/10
 ]
 }
-outputLiquids: iclag/2
+outputLiquid: iclag/2
 research: {
 requirements: [
 exoprosopa-01a-02-item-nickel/12

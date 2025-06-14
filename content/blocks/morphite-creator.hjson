@@ -1,7 +1,7 @@
 name: Morphite Creator
 type: GenericCrafter
 squareSprite: false
-size: 5
+size: 3
 category: crafting
 researchCostMultiplier: .25
 craftTime: 15

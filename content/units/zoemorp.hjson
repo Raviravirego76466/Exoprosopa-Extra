@@ -16,7 +16,7 @@ hovering: false
 legCount: 6
 legLength: 18
 commands: [move, mine, repair, rebuild, assist]
-mineItems: []
+mineItems: [exoprosopa-01a-02-item-nickel]
 mineWalls: true
 mineFloor: true
 legSpeed: 0.23

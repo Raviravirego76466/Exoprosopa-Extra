@@ -30,7 +30,7 @@ weapons: [
     name: morpohio-blaster
     y: 3
     reload: 72
-    shootSound: shoot-dull
+    shootSound: laser
     mirror: true
     alternate: true
     rotate: false
@@ -75,7 +75,7 @@ weapons: [
     name: zoemorp-weapon
     mirror: false
     rotate: false
-    shootSound: artillery
+    shootSound: cyber-laser
     bullet: {
       type: ArtilleryBulletType
       speed: 1.5

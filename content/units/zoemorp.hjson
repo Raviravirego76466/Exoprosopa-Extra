@@ -1,5 +1,5 @@
 type: legs
-name: Illuminate
+name: Zoemorp
 description: Capable of building and automatically repairing damaged structures. Assists other units in construction. Equipped with artillery and heal cannons.
 speed: 0.55
 health: 790

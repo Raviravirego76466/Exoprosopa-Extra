@@ -21,7 +21,7 @@ drawer: {
     {
       type: DrawBlurSpin
       suffix: -rotator
-      rotateSpeed: 5
+      rotateSpeed: 10
     }
     {
       type: DrawDefault

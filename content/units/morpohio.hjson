@@ -7,7 +7,7 @@ armor: 4
 flying: false
 controller: BuilderAI
 commands: [move, mine, repair, rebuild, assist]
-mineItems: [01a-01-item-ferrinite, 01a-02-item-demetite, 01a-03-item-lignite, 01a-09-item-obsidian]
+mineItems: [exoprosopa-01a-02-item-nickel]
 mineWalls: true
 mineFloor: true
 legExtension: -2.5

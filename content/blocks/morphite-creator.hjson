@@ -1,0 +1,26 @@
+name: Morphite Creator
+type: GenericCrafter
+squareSprite: false
+size: 5
+category: crafting
+researchCostMultiplier: .25
+craftTime: 15
+requirements: [
+exoprosopa-01a-01-item-cobalt/20
+exoprosopa-01a-02-item-nickel/10
+]
+consumes: {
+items: [
+exoprosopa-01a-01-item-cobalt/10
+exoprosopa-01a-02-item-nickel/5]
+}
+outputItem: exoprosopa-01a-09-item-morphite/2
+research: {
+requirements: [
+exoprosopa-01a-02-item-nickel/12
+exoprosopa-01a-01-item-cobalt/10
+]
+parent: exoprosopa-01a-02-item-nickel
+name: Morphite Creator
+planet: exoprosopa-frostnova
+}

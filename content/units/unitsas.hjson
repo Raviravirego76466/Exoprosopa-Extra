@@ -14,7 +14,7 @@ health: 35000
 armor: 25
 hitSize: 35
 researchCostMultiplier: 3
-research: Unitsas
+name: Unitsas
 engines: [{
     x: 0
     y: -21

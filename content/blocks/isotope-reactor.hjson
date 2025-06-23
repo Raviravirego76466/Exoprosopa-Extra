@@ -1,0 +1,13 @@
+name: Cobalt Isotope Reactor
+type: IsotopeReactor
+squareSprite: false
+size: 5
+category: power
+researchCostMultiplier: .25
+powerProduction: 1
+ores: [
+ ore-scrap/0.5
+ ore-copper/1
+ ore-lead/2
+ ore-titanium/4
+]
